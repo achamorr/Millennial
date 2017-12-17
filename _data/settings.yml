@@ -5,8 +5,8 @@ tagline: "what andrea dreamed up today"
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
+  comments: true
+  disqus_shortname: 'obviously_andrea'
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}

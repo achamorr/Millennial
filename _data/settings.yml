@@ -9,7 +9,7 @@ disqus:
   disqus_shortname: 'obviously_andrea'
 
 menu:
-- {name: 'Daily Art', folder: 'pages', file: 'facts.html'}
+- {name: 'Daily Art', folder: 'pages', file: 'dailyart.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 

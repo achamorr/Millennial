@@ -1,4 +1,4 @@
-#live from a little corner of the world, andrea chamorro
+# live from a little corner of the world, andrea chamorro
   
  this is a blog to document the everyday journey of a girl just like anyone else, but who, unlike most, would like to wake up. documenting is one of the most influential ways to become self-aware and intentional and reflective in our everyday lives. Unlike some of you lucky few out there, i don't remember my life in excruting detail. i live moments, and then i forget. but i would not like to forget. i would like to be able to pull out my little laptop and write until my little heart is content. only in that way can i understand this thing called life and better proceed in a life that is deeply intentional and concious. Am i doing my best job at being me? let's find out. 
  

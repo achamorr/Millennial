@@ -1,33 +1,29 @@
 ---
 layout: post
-title: "Installation Guide"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+title: "The Fuss: Rio vs Morrocco"
+author: "Andrea Chamorro"
+categories: post
+tags: [post,sample]
 image:
-  feature: city-2.jpg
+  feature: morocco-1.jpg
 ---
 
-Millennial is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
+### Why Morocco? Brazil?
+It started with ["El Clon"](https://en.wikipedia.org/wiki/O_Clone), a Brazilian series I watched during late high school, early college, that surrounds a love story between Jade, raised in Morocco and a Lucas, raised in Rio de Janeiro, Brazil, and their improbable but devout love, and the cultural obstacles that come between them. It was here that I started to learn about both countries a little more in depth, their culture.
 
-### What is Jekyll?
+It made a lasting impact on me, in terms of how I saw cultural differences between the Eastern and Western sides of the planet. But, importantly, it made me want to go visit these places an aweful lot, experience both sides of the cultural story, and understand. I think Wikipedia describes it accurately, checkout the link above, and [this one](https://www.google.com/search?safe=strict&rlz=1C1CHBF_enUS759US760&tbm=isch&q=giovanna+antonelli&chips=q:giovanna+antonelli,g_1:el+clon:Ifcv4FFIGlE%3D&usg=AI4_-kTo9w6_a-RXboNOAk_W4sqVrAsXgw&sa=X&ved=0ahUKEwjA9pO3qdbjAhXXG80KHathCaMQ4lYIMSgD&biw=1600&bih=762&dpr=1.2#imgrc=_) on the beautiful Giovanna Antonelli, who was the beauty queen of the show and set my beauty standards for life. Very sad that she died her hair blonde in recent years, and more on why will come in a different blog. 
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Basically, Jekyll takes your page content along with template files and produces a complete website. For more information, visit the [official Jekyll site](https://jekyllrb.com/docs/home/) for their documentation.
+### Lucia
+It didn't help that people like [Lucia](https://www.instagram.com/luciaquimey/), a girl I met on my first trip abroad by myself, to Madrid while staying in a backpacker hostel in the Middle of the city, post beautiful pictures about their time in Morocco, specifically. The header for this blog is brought to you courtesy of her. 
 
-### Never Used Jekyll Before?
+On a side note, she is my favorite Instagrammer at the moment, mostly because her pistures focus on the art, not the luxury, of her experience and tell a cohesive narrative, unlike many others I know (the braggin nature of Instagram and wanna-be personna the platform inspires in people makes me queasy, and maybe because it's hard to live up to is why I deleted Instagram on my phone, but more on that later).
 
-The beauty of hosting your website on GitHub is that you don't have to actually have Jekyll installed on your computer. Everything can be done through the GitHub code editor, with minimal knowledge of how to use Jekyll or the command line. All you have to do is add your posts to the `_posts` directory and edit the `_config.yml` file to change the site settings. With some rudimentary knowledge of HTML and CSS, you can even modify the site to your liking.
+### Did Someone Say Rio?
+Anyway, this combination of things has made Morocco and Brazil at the top of the list for my upcoming travel destinations, even before India, which was my other very imminent and potential travel destinations this winter. 
 
-This can all be done through the GitHub code editor, which acts like a content management system (CMS).
+I have one specific blog to thank for getting the hype up for me at unprecendented levels, [The Ultimate Beginner's Guide to Rio's Carnaval](http://www.theborderlessproject.com/ultimate-beginners-guide-rio-carnival-carnaval/) and would recommend it to you all if this is this blog got your traveler's spirit up. Will post a more comprehensive travel plan in the near future. 
 
-### Quick-Start Guide
+Until then...
 
-To start using Jekyll right away, [fork the Millennial repository on GitHub](https://github.com/LeNPaul/Millennial/fork). From there, you can rename the repository to 'USERNAME.github.io', where 'USERNAME' is your GitHub username, and edit the `_config.yml` file to your liking. Ensure that you have a branch named `gh-pages`. Your website should be ready immediately at 'http://USERNAME.github.io'.
 
-Head over to the `_posts` directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.
-
-### Full Installation Guide
-
-For a full local installation of Millennial, [download your own copy of Millennial](https://github.com/LeNPaul/Millennial/archive/gh-pages.zip) and unzip it into it's own directory. From there, open up your favorite command line tool, and enter `jekyll serve`. Your site should be up and running locally at [http://localhost:4000](http://localhost:4000).
-
-The same process follows from above for adding new posts and content to your site. For a full guide on using Millennial, check out the [Working With Jekyll]({{ site.github.url }}{% post_url 2016-11-11-Working-With-Jekyll %}) post.
+For a full Intro in to this page, check out the [Welcome to Cloud Blog]({{ site.github.url }}{% post_url 2017-07-27-Welcome-to-Millennial %}) post.

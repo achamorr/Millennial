@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Fuss: Rio vs Morrocco"
+title: "Rio vs Morrocco"
 author: "Andrea Chamorro"
 categories: post
 tags: [post,sample]

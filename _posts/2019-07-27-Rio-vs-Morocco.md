@@ -26,4 +26,4 @@ I have one specific blog to thank for getting the hype up for me at unprecendent
 Until then...
 
 
-For a full Intro in to this page, check out the [Welcome to Cloud Blog]({{ site.github.url }}{% post_url 2017-07-27-Welcome-to-Millennial %}) post.
+For a full Intro in to this page, check out the [Welcome to Cloud Blog]({{ site.github.url }}{% post_url 2019-07-27-Welcome-to-Millennial %}) post.

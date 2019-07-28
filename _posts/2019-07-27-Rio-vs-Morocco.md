@@ -5,7 +5,7 @@ author: "Andrea Chamorro"
 categories: post
 tags: [post,sample]
 image:
-  feature: morocco-1.jpg
+  feature: morocco-1.JPG
 ---
 
 ### Why Morocco? Brazil?

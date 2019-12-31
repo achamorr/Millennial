@@ -3,4 +3,4 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+have question, or just wanna say hi? you can contact me on any of my social media links above or by email at andrea.colleges@gmail.com.Also, feel free to check out my personal front page at [this link](https://achamorr.github.io/eportfolio/).

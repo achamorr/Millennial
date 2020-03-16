@@ -10,7 +10,6 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Home', file: 'index.html'}
 - {name: 'Daily Art', folder: 'pages', file: 'dailyart.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
